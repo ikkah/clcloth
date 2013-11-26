@@ -1,3 +1,5 @@
+![CLCloth screenshot](clcloth.png)
+
 OpenCL Cloth Simulation
 
 All the C++ code is in a single file (main.cpp), and the OpenCL code file
